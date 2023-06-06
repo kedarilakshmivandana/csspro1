@@ -1,0 +1,91 @@
+.face{
+    height:250px;
+    width:250px;
+    background-color:yellow;
+    border-radius:50%;   
+        margin:auto;
+    margin-top:50px;
+    box-shadow:4px 4px 4px 4px brown; 
+    position:relative;
+
+    
+}
+.eyes{
+    display:flex;
+    justify-content:space-evenly;
+    position:absolute;
+    width:250px;
+    margin-top:20%;
+    
+}
+.leye{
+    height:40px;
+    width:40px;
+    background-color:white;
+    border-radius:500%;
+    margin-left:7%;
+    margin-bottom:10px;
+    box-shadow:1px 1px 1px 1px black;
+    
+}
+#i1eye{
+    height:20px;
+    width:20px;
+    border-radius:50%;
+    background-color:black;
+    margin-left:30%;
+    margin-bottom:30px;
+    margin-right:100px;
+    box-shadow:1px 1px 1px 1px black; 
+   
+
+}
+
+.reye{
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    margin-bottom:10px;
+    margin-left:7%;
+   
+    background-color:white;
+    box-shadow:1px 1px 1px 1px black; 
+   
+
+
+
+}
+#ieye{
+    height:20px;
+    width:20px;
+    border-radius:50%;
+    background-color:black;
+    margin-bottom:15px;
+    margin-left:20%;
+    margin-right:100px;
+    box-shadow:1px 1px 1px 1px black; 
+   
+
+}
+.mouth{
+    height:4px;
+    width:100px;
+    background-color:brown;
+    border:2px solid black;
+    position:absolute;
+    margin-top:60%;
+    margin-left:30%;
+    border-radius:10%;
+    border-top-left-radius:20%;
+    border-top-right-radius:20%;
+    border-bottom-left-radius:20%;
+    
+    border-bottom-right-radius:20%;
+
+
+
+}
+
+
+
+
